@@ -8,7 +8,7 @@ public class MyContoller {
 	
 	@GetMapping("/hello1")
 	public String gethello() {
-		return "God is good";
+		return "God Goodess are good";
 	}
 
 }
