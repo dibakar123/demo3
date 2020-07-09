@@ -11,4 +11,10 @@ public class MyContoller {
 		return "God Goodess are good";
 	}
 
+	
+	@GetMapping("/hello2")
+	public String gethello2() {
+		return "Today is fine";
+	}
+
 }
